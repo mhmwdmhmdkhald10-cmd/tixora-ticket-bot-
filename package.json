@@ -1,0 +1,12 @@
+{
+  "name": "tixora-ticket-bot",
+  "version": "1.0.0",
+  "description": "Tixora Discord Ticket Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1"
+  }
+}
